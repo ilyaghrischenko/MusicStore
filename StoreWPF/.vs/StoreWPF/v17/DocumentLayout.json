@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\MusicStore\\StoreWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE921C-1DAE-4E65-912D-A764197642F9}|StoreWPF.csproj|c:\\github\\musicstore\\storewpf\\windows\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{81AE921C-1DAE-4E65-912D-A764197642F9}|StoreWPF.csproj|solutionrelative:windows\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE921C-1DAE-4E65-912D-A764197642F9}|StoreWPF.csproj|c:\\github\\musicstore\\storewpf\\windows\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE921C-1DAE-4E65-912D-A764197642F9}|StoreWPF.csproj|solutionrelative:windows\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C474F7-832E-4BEF-9629-5761ECA32156}|..\\DataBase\\DataBase.csproj|c:\\github\\musicstore\\database\\musicstorehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C474F7-832E-4BEF-9629-5761ECA32156}|..\\DataBase\\DataBase.csproj|c:\\github\\musicstore\\database\\models\\useralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C474F7-832E-4BEF-9629-5761ECA32156}|..\\DataBase\\DataBase.csproj|c:\\github\\musicstore\\database\\musicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 154,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAlbum.cs",
+              "DocumentMoniker": "C:\\github\\MusicStore\\DataBase\\Models\\UserAlbum.cs",
+              "RelativeDocumentMoniker": "..\\DataBase\\Models\\UserAlbum.cs",
+              "ToolTip": "C:\\github\\MusicStore\\DataBase\\Models\\UserAlbum.cs",
+              "RelativeToolTip": "..\\DataBase\\Models\\UserAlbum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:46:12.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicStoreHandle.cs",
+              "DocumentMoniker": "C:\\github\\MusicStore\\DataBase\\MusicStoreHandle.cs",
+              "RelativeDocumentMoniker": "..\\DataBase\\MusicStoreHandle.cs",
+              "ToolTip": "C:\\github\\MusicStore\\DataBase\\MusicStoreHandle.cs",
+              "RelativeToolTip": "..\\DataBase\\MusicStoreHandle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:44:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\github\\MusicStore\\StoreWPF\\Windows\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\github\\MusicStore\\StoreWPF\\Windows\\UserWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\UserWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:41:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\github\\MusicStore\\StoreWPF\\Windows\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\UserWindow.xaml",
+              "ToolTip": "C:\\github\\MusicStore\\StoreWPF\\Windows\\UserWindow.xaml",
+              "RelativeToolTip": "Windows\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T16:41:11.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicStoreContext.cs",
+              "DocumentMoniker": "C:\\github\\MusicStore\\DataBase\\MusicStoreContext.cs",
+              "RelativeDocumentMoniker": "..\\DataBase\\MusicStoreContext.cs",
+              "ToolTip": "C:\\github\\MusicStore\\DataBase\\MusicStoreContext.cs",
+              "RelativeToolTip": "..\\DataBase\\MusicStoreContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:51:26.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
